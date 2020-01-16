@@ -1,0 +1,12 @@
+d:\Users\noy-nac\Documents\Company\Development\Programming\PBTSNet\PBTSNet\bin\Debug\PBTSNet.exe.config
+d:\Users\noy-nac\Documents\Company\Development\Programming\PBTSNet\PBTSNet\bin\Debug\PBTSNet.exe
+d:\Users\noy-nac\Documents\Company\Development\Programming\PBTSNet\PBTSNet\bin\Debug\PBTSNet.pdb
+d:\Users\noy-nac\Documents\Company\Development\Programming\PBTSNet\PBTSNet\bin\Debug\Newtonsoft.Json.dll
+d:\Users\noy-nac\Documents\Company\Development\Programming\PBTSNet\PBTSNet\bin\Debug\System.Net.Http.Formatting.dll
+d:\Users\noy-nac\Documents\Company\Development\Programming\PBTSNet\PBTSNet\bin\Debug\Newtonsoft.Json.xml
+d:\Users\noy-nac\Documents\Company\Development\Programming\PBTSNet\PBTSNet\bin\Debug\System.Net.Http.Formatting.xml
+d:\Users\noy-nac\Documents\Company\Development\Programming\PBTSNet\PBTSNet\obj\Debug\PBTSNet.csprojAssemblyReference.cache
+d:\Users\noy-nac\Documents\Company\Development\Programming\PBTSNet\PBTSNet\obj\Debug\PBTSNet.csproj.CoreCompileInputs.cache
+d:\Users\noy-nac\Documents\Company\Development\Programming\PBTSNet\PBTSNet\obj\Debug\PBTSNet.csproj.CopyComplete
+d:\Users\noy-nac\Documents\Company\Development\Programming\PBTSNet\PBTSNet\obj\Debug\PBTSNet.exe
+d:\Users\noy-nac\Documents\Company\Development\Programming\PBTSNet\PBTSNet\obj\Debug\PBTSNet.pdb
